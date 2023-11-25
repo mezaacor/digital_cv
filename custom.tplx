@@ -1,0 +1,35 @@
+((*- extends 'article.tplx' -*))
+
+% Configuración del documento
+((* block docclass *))
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[letterpaper, margin=1cm]{geometry}  % Ajusta los márgenes según tus necesidades
+((* endblock docclass *))
+
+% Otros ajustes de estilo
+((* block packages *))
+\usepackage{titling}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+((* endblock packages *))
+
+% Ajustes de título
+((* block title *))
+\maketitle
+\pagenumbering{gobble}  % Elimina los números de página
+((* endblock title *))
+
+% Contenido principal del documento
+((* block body *))
+\pagenumbering{arabic}  % Vuelve a agregar los números de página para el contenido principal
+\hypertarget{first-page}{}
+
+((( super() )))  % Contenido principal
+((* endblock body *))
