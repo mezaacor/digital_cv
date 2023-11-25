@@ -1,68 +1,46 @@
 # Ronny A. Meza Acosta
 
-## Información de Contacto
-- **Correo Electrónico:** mezaacor@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/mezaacor/))
-- **GitHub:** [Tu Perfil de GitHub]([https://github.com/tu-usuario](https://github.com/mezaacor))
+## Contact Information
+- **Email:** mezaacor@gmail.com
+- **LinkedIn:** [](https://www.linkedin.com/in/mezaacor/)
+- **Website/Portfolio:** [](https://github.com/mezaacor)
 
-## Resumen Profesional
-Soy un/a [tu título] con experiencia en [áreas de experiencia]. Mi enfoque principal es [tu enfoque], y estoy apasionado/a por [tus intereses profesionales]. He trabajado en [industria o empresas anteriores] y he demostrado habilidades en [habilidades clave].
+## Professional Summary
+I am a [Data Scientist] with experience in [Data Mining, Machine Laerning and Python programming]. I am passionate about [extract hidden information from data and create predictive models], and I strive to [machine learning engineer].
 
-## Experiencia Laboral
+## Work Experience
 
-### [Nombre del Trabajo Actual o Anterior]
-- **Empresa:** [Nombre de la Empresa]
-- **Fecha de Inicio - Fecha de Finalización:** [Mes/Año de inicio] - [Mes/Año de finalización]
-- **Descripción:**
-  - [Responsabilidad o logro clave]
-  - [Otra responsabilidad o logro clave]
+### [Gis4tech] - Garanada, Spain
+**Data Scientist** (June/2021 Started - Present)
+- Brief description of your responsibilities and achievements.
 
-### [Nombre del Trabajo Anterior]
-- **Empresa:** [Nombre de la Empresa]
-- **Fecha de Inicio - Fecha de Finalización:** [Mes/Año de inicio] - [Mes/Año de finalización]
-- **Descripción:**
-  - [Responsabilidad o logro clave]
-  - [Otra responsabilidad o logro clave]
+### [Company Name] - City, Country
+**Job Title** (Month/Year Started - Month/Year Ended)
+- Brief description of your responsibilities and achievements.
 
-## Educación
+## Education
 
-### [Nombre del Grado]
-- **Institución:** [Nombre de la Universidad o Institución]
-- **Fecha de Graduación:** [Mes/Año de graduación]
-- **Descripción:**
-  - [Cursos relevantes o logros académicos]
+### [University Name] - City, Country
+**Degree Earned** - Month/Year Graduated
 
-## Habilidades
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
-- ...
+## Technical Skills
+- List of technical skills relevant to your expertise.
 
-## Proyectos Destacados
-### [Nombre del Proyecto]
-- **Descripción:**
-  - [Breve descripción del proyecto]
-- **Enlace al Proyecto:** [Enlace al repositorio en GitHub u otro]
+## Projects
 
-### [Nombre del Proyecto]
-- **Descripción:**
-  - [Breve descripción del proyecto]
-- **Enlace al Proyecto:** [Enlace al repositorio en GitHub u otro]
+### [Project Name] - [Link to GitHub Project]
+- Brief description of the project and your contributions.
 
-## Idiomas
-- **Idioma 1:** [Nivel de competencia]
-- **Idioma 2:** [Nivel de competencia]
+## Certifications
+- List of relevant certifications.
 
-## Certificaciones
-- [Nombre de la Certificación]
-- [Nombre de la Certificación]
+## Languages
+- List of languages and your proficiency level.
 
-## Intereses
-- [Interés 1]
-- [Interés 2]
-- [Interés 3]
+## Volunteering
+### [Organization Name] - City, Country
+**Volunteer Role** (Month/Year Started - Month/Year Ended)
+- Brief description of your responsibilities and achievements as a volunteer.
 
----
-
-¡Espero que encuentres útil esta plantilla! Recuerda personalizarla según tus experiencias, habilidades y detalles específicos. ¡Buena suerte con tu búsqueda laboral!
-
+## References
+Available upon request.
